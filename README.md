@@ -14,3 +14,7 @@ Build completely from scratch all the parts using the eight-to-ten motors that I
 * Three [AX-12A](https://emanual.robotis.com/docs/en/dxl/ax/ax-12a/)
 
 Note that with a spring-retracting ankle, two motors per leg; one for next rotate and pivot (like with the cyberdeck head). Ordered three horns. However, the design pioneered by [Aibo](https://aibo.miraheze.org/wiki/Main_Page) is the driving factor.
+
+## Targets
+
+An experimental part is to leverage the extinct Open-R(TOS) in context with [Zephyr](https://github.com/Cartheur-Forks/zephyr).
